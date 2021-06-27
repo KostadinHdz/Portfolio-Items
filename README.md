@@ -1,4 +1,4 @@
-### [Main Page](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/)
+### [Main Page](https://github.com/KostadinHdz/Kostadin-Hadzhidinev.git)
 
 ## Procedural city
 
@@ -80,4 +80,4 @@ https://user-images.githubusercontent.com/67159637/123556820-bc090380-d78d-11eb-
 
 ENB is a free community post-processor tool developed by Boris Vorontsov and can be applied on many different games to enhance the experience. I have done just that for one of my favourite games called Skyrim... ENB is extremely complex, supporting hundreds of effects such as SSAO, SSIL, Depth Of Field, Lens FX, Bloom, HDR, Tone Mapping, Sharpening, Sun Rays, Shadows, Detailed Shadows, Reflection and others. Additionally it allows me to create entire weather systems so the game looks different depending on which weather is playing.
 
-### [Main Page](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/)
+### [Main Page](https://github.com/KostadinHdz/Kostadin-Hadzhidinev.git)
