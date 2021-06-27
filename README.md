@@ -70,6 +70,12 @@ A scene with artistic goal - to make it as good looking as possible. Here I have
 
 ## Post-processing
 
+https://user-images.githubusercontent.com/67159637/123559448-5d975180-d79c-11eb-8e10-946922205515.mp4
+
+Drawing with pencils is how most people have started and I am no exception. This compilation contains some of my best work, although some of them are a bit old by now. I found myself enjoying drawing portraits and detailed characters the most which is why this is the only thing Portfolio worthy I brought. 
+
+## Post-processing
+
 https://user-images.githubusercontent.com/67159637/123556820-bc090380-d78d-11eb-8b0e-4134099b83f1.mp4
 
 ENB is a free community post-processor tool developed by Boris Vorontsov and can be applied on many different games to enhance the experience. I have done just that for one of my favourite games called Skyrim... ENB is extremely complex, supporting hundreds of effects such as SSAO, SSIL, Depth Of Field, Lens FX, Bloom, HDR, Tone Mapping, Sharpening, Sun Rays, Shadows, Detailed Shadows, Reflection and others. Additionally it allows me to create entire weather systems so the game looks different depending on which weather is playing.
