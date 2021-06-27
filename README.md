@@ -1,3 +1,5 @@
+### [Main Page](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/)
+
 # Kostadin Hadzhidinev
 I'm an aspiring artist that is currently getting into digital art. I use different programs to create graphical modifications and assets for different games.
 
@@ -66,3 +68,5 @@ For the moment my goal is to improve and expand on my artist skills as I'm learn
 [<img src="enb.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Other-ENB/)
 
 https://user-images.githubusercontent.com/67159637/123556820-bc090380-d78d-11eb-8b0e-4134099b83f1.mp4
+
+### [Main Page](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/)
