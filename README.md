@@ -2,6 +2,7 @@
 I'm an aspiring artist that is currently getting into digital art. I use different programs to create graphical modifications and assets for different games.
 
 <img src="imageofguy.png" width="270">
+<source src="postprocessing video small.mp4" type="video/mp4">
 
 # Basic Info
 
