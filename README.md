@@ -1,7 +1,11 @@
 # Kostadin Hadzhidinev
 I'm an aspiring artist that is currently getting into digital art. I use different programs to create graphical modifications and assets for different games.
 
-<video style="width:100%" controls src="postprocessing video small.mp4"/>
+
+
+https://user-images.githubusercontent.com/67159637/123556820-bc090380-d78d-11eb-8b0e-4134099b83f1.mp4
+
+[<video src="postprocessing video small.mp4" width="165">]
 
 # Basic Info
 
