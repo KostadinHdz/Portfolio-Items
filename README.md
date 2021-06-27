@@ -68,7 +68,7 @@ https://user-images.githubusercontent.com/67159637/123558825-9f25fd80-d798-11eb-
 
 A scene with artistic goal - to make it as good looking as possible. Here I have learned everything I know about how Unity's post-processing tools work.
 
-## Post-processing
+## Pencil art
 
 https://user-images.githubusercontent.com/67159637/123559448-5d975180-d79c-11eb-8e10-946922205515.mp4
 
