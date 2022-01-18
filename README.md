@@ -80,10 +80,4 @@ https://user-images.githubusercontent.com/67159637/123559448-5d975180-d79c-11eb-
 
 Drawing with pencils is how most people have started and I am no exception. This compilation contains some of my best work, although some of them are a bit old by now. I found myself enjoying drawing portraits and detailed characters the most which is why this is the only thing Portfolio worthy I brought. 
 
-## Portrait(s)
-
-<img src="https://user-images.githubusercontent.com/67159637/124746883-aaf48b00-df21-11eb-8ae8-b77afb6be5f1.png" width="610" height="610">
-
-A drawing of a dear friend of mine ~
-
 ### [Main Page](https://github.com/KostadinHdz/Kostadin-Hadzhidinev.git)
